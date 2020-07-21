@@ -1,1 +1,1 @@
-<?php include_once("mydomainXCC.html"); ?>
+<?php include_once("RightFrameURL.html"); ?>
